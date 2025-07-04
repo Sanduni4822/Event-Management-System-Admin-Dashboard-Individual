@@ -1,4 +1,3 @@
-// src/components/Sidebar.jsx
 import React from 'react';
 import { FaTachometerAlt, FaCalendarAlt, FaInbox, FaFileInvoice, FaUsers, FaChartBar, FaImages, FaStar, FaSignOutAlt } from 'react-icons/fa';
 
@@ -42,4 +41,4 @@ const SidebarItem = ({ name, icon }) => (
   </li>
 );
 
-export default Sidebar;
+export default Sidebar; 
